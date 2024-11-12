@@ -28,3 +28,4 @@ Learn more at https://cap.cloud.sap/docs/get-started/.
 
 Testing if this change in repository automatically triggers my pipeline.
 Second try.
+Third try. Changed conditions again (following the ones in the word doc) and made sure I copied the right JSON to the service key on credentials.
